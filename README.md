@@ -14,7 +14,8 @@ Meeting ID: 996 3497 6749
 
 Passcode: 478479
 
-NOTE:  Please bring a computer to every class session as this is a #hands-on course. You will be expected to actively participate in exercises that require the use of GitHub and Git. Without a computer, you will not be able to fully engage with the course material.
+## Important Note
+**Please bring a computer to every class session. This is a hands-on course, and active participation in exercises using GitHub and Git is required. Without a computer, you will not be able to fully engage with the course material.**
 
 This repository is a clearing house for resources for individual workshops from [City Colleges of Chicago School of Continuing Education](https://www.ccc.edu/kennedy/departments/continuing-education/). 
 
@@ -32,6 +33,66 @@ For workshops, it's best to [Visual Studio, Github Desktop](https://visualstudio
 ## Git
 
 [Github Quickstart for Scientists](https://rawgit.com/nazrug/Quickstart/master/GithubQuickstart.html): aims just at teaching the workflow that many scientists use
+
+
+# GitHub Training Course
+
+## Class 1: Introduction to GitHub (4 hours)
+
+### Part 1: Overview of Version Control Systems (30 minutes)
+- Introduction to version control
+- Importance of version control in software development
+- Overview of GitHub and its role in the developer community
+
+### Part 2: Setting Up Git and GitHub (45 minutes)
+- Installing Git on your computer
+- Creating a GitHub account
+- Configuring Git for the first time (username, email, etc.)
+
+**Break (15 minutes)**
+
+### Part 3: Git Basics (1 hour 15 minutes)
+- Initializing a repository
+- Staging, committing, and pushing changes
+- Understanding the `.git` directory and the working tree
+
+### Part 4: Working with GitHub Repositories (1 hour 15 minutes)
+- Cloning a repository
+- Understanding branches and how to create them
+- Making changes and creating pull requests
+
+---
+
+## Class 2: Advanced GitHub Techniques and Collaboration (4 hours)
+
+### Part 1: Merging and Resolving Conflicts (1 hour)
+- Merging branches
+- Resolving conflicts in a collaborative environment
+
+### Part 2: Collaboration with GitHub (1 hour)
+- Forking a repository
+- Collaborating on open-source projects
+- Best practices for managing contributions
+
+**Break (15 minutes)**
+
+### Part 3: Advanced GitHub Features (1 hour 15 minutes)
+- Using GitHub Actions for CI/CD
+- Managing repository settings and permissions
+- Creating and managing GitHub Pages
+
+### Part 4: GitHub Workflow and Hands-on Project (1 hour 15 minutes)
+- Understanding Git workflows (e.g., Git Flow, Feature Branch Workflow)
+- Writing meaningful commit messages
+- **Hands-on project**: Building and managing a repository from scratch
+
+---
+
+## Important Note
+**Please bring a computer to every class session. This is a hands-on course, and active participation in exercises using GitHub and Git is required. Without a computer, you will not be able to fully engage with the course material.**
+
+
+
 
 ## Other Statistical Programs
 
