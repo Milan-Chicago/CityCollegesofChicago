@@ -1,4 +1,4 @@
-# R Workshops
+
 
 This repository is a clearing house for resources for individual workshops from [City Colleges of Chicago School of Continuing Education](https://www.ccc.edu/kennedy/departments/continuing-education/). 
 
