@@ -22,16 +22,9 @@ This repository is a clearing house for resources for individual workshops from 
 For workshops, it's best to [Visual Studio, Github Desktop](https://visualstudio.microsoft.com/, https://desktop.github.com/download/) on your own laptop (free).  If you can't install these programs or run into issues installing packages, [Posit Cloud ](https://posit.cloud/)is a good option.
 
 
-# Handouts
-
-[RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/) are short pdfs that summarize key R functions on specific topics. Many people print them out for reference while working in R.  The `ggplot` cheat sheet, in particular, in indispensable.  
-
-[R Reference Card](https://cran.r-project.org/doc/contrib/Baggott-refcard-v2.pdf): lists many commonly used functions
-
-
 # Learning More
 
-**See our guide to free, [online resources for learning R](https://sites.northwestern.edu/researchcomputing/2020/03/20/online-learning-resources-r/) on the Research Computing Services blog for suggestions of resources to get started or get better with R.**
+**See our guide to free, [online resources for Github actions ](https://docs.github.com/en/actions/about-github-actions/understanding-github-actions) and a easy to follow [video here[(https://www.youtube.com/watch?v=URmeTqglS58) and [here](https://www.youtube.com/watch?v=ylEy4eLdhFs).
 
 Resources for specific topics and R are below.
 
