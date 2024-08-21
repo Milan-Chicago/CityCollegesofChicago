@@ -76,12 +76,12 @@ For workshops, it's best to [Visual Studio, Github Desktop](https://visualstudio
 
 **Break (15 minutes)**
 
-### Part 3: Advanced GitHub Features (1 hour 15 minutes)
+### Part 3: Advanced GitHub Features (45 minutes)
 - Using GitHub Actions for CI/CD
 - Managing repository settings and permissions
 - Creating and managing GitHub Pages
 
-### Part 4: GitHub Workflow and Hands-on Project (1 hour 15 minutes)
+### Part 4: GitHub Workflow and Hands-on Project (45 minutes)
 - Understanding Git workflows (e.g., Git Flow, Feature Branch Workflow)
 - Writing meaningful commit messages
 - **Hands-on project**: Building and managing a repository from scratch
