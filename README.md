@@ -24,9 +24,7 @@ For workshops, it's best to [Visual Studio, Github Desktop](https://visualstudio
 
 # Learning More
 
-**See our guide to free, [online resources for Github actions ](https://docs.github.com/en/actions/about-github-actions/understanding-github-actions) and a easy to follow [video here[(https://www.youtube.com/watch?v=URmeTqglS58) and [here](https://www.youtube.com/watch?v=ylEy4eLdhFs).
-
-Resources for specific topics and R are below.
+**See our guide to free, [online resources for Github actions ](https://docs.github.com/en/actions/about-github-actions/understanding-github-actions) and a easy to follow [video here](https://www.youtube.com/watch?v=URmeTqglS58) and [here](https://www.youtube.com/watch?v=ylEy4eLdhFs).
 
 
 ## Git
