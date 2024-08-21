@@ -1,7 +1,7 @@
+# City Colleges of Chicago Continuing Education
+## Github Training (Part 1)
 
-
-Friday August 23rd, Github Training (Part 1)
-
+Friday August 23rd
 
 Topic: Github Training (Part 1)
 
