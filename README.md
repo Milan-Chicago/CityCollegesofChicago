@@ -1,5 +1,19 @@
 
 
+Friday August 23rd, Github Training (Part 1)
+
+
+Topic: Github Training (Part 1)
+
+Time: Aug 23, 2024 11:30 AM Central Time (US and Canada)
+
+
+[Join Zoom Meeting](https://cccedu.zoom.us/j/99634976749?pwd=XejwYUT6puXsbs94OWsOLHk2oVDUuh.1)
+
+Meeting ID: 996 3497 6749
+
+Passcode: 478479
+
 This repository is a clearing house for resources for individual workshops from [City Colleges of Chicago School of Continuing Education](https://www.ccc.edu/kennedy/departments/continuing-education/). 
 
 
