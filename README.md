@@ -14,6 +14,8 @@ Meeting ID: 996 3497 6749
 
 Passcode: 478479
 
+NOTE:  Please bring a computer to every class session as this is a #hands-on course. You will be expected to actively participate in exercises that require the use of GitHub and Git. Without a computer, you will not be able to fully engage with the course material.
+
 This repository is a clearing house for resources for individual workshops from [City Colleges of Chicago School of Continuing Education](https://www.ccc.edu/kennedy/departments/continuing-education/). 
 
 
