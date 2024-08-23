@@ -92,6 +92,9 @@ For workshops, it's best to [Visual Studio, Github Desktop](https://visualstudio
 - Understanding branches and how to create them
 - Making changes and creating pull requests
 
+### Homework
+- [Command Line Crash Course For Beginners | Terminal Commands](https://www.youtube.com/watch?v=uwAqEzhyjtw&t=2067s)
+- [Common Terminal Commands](https://gist.github.com/bradtraversy/cc180de0edee05075a6139e42d5f28ce)
 ---
 
 ## Class 2: Advanced GitHub Techniques and Collaboration (4 hours)
