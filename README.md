@@ -18,13 +18,9 @@ GitHub Education helps students, teachers and schools access the best real-world
 - **Teacher Toolbox**: The best tools to teach, free for teachers.
 - **Swag for teachers**: After saying hi on Global Campus: Teacher, stock up on Git cheat sheets, Markdown guides, and of course, stickers.
 
-
 ### 🏫 For schools
 - **GitHub Campus Program**: Teach with industry-standard tools, across all your departments and students, for free.
 
-- [Guides for GitHub Education](https://docs.github.com/en/education/guides)
-- [Git cheat sheets](https://education.github.com/git-cheat-sheet-education.pdf)
-- [GitHub-Flavored Markdown guide](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
 
 ## Get the benefits
 Find out more about your benefits from GitHub Education on our [website](https://education.github.com/).
@@ -95,6 +91,9 @@ For workshops, it's best to [Visual Studio, Github Desktop](https://visualstudio
 ### Homework
 - [Command Line Crash Course For Beginners | Terminal Commands](https://www.youtube.com/watch?v=uwAqEzhyjtw&t=2067s)
 - [Common Terminal Commands](https://gist.github.com/bradtraversy/cc180de0edee05075a6139e42d5f28ce)
+- [Guides for GitHub Education](https://docs.github.com/en/education/guides)
+- [Git cheat sheets](https://education.github.com/git-cheat-sheet-education.pdf)
+- [GitHub-Flavored Markdown guide](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
 ---
 
 ## Class 2: Advanced GitHub Techniques and Collaboration (4 hours)
