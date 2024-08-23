@@ -1,4 +1,4 @@
-# City Colleges of Chicago Continuing Education Sample Readme Page
+# Caroly's adn Gustavo and Duke new CS class
 
 Here are a few links to the notebooks from the student portal (NMA DL 2024):
 
