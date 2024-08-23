@@ -13,3 +13,9 @@ The Github link that corresponds to student portal material:
 Neuromatch Academy - https://github.com/NeuromatchAcademy/course-content/tree/main/tutorials 
 
 The links to every notebook from the course are in folders W1D1-W3D5
+
+Samples from Google and AWS
+
+https://github.com/aws-samples/amazon-bedrock-workshop 
+
+https://github.com/google-gemini/gemma-cookbook/tree/main
