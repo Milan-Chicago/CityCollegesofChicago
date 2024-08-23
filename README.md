@@ -125,43 +125,64 @@ For workshops, it's best to [Visual Studio, Github Desktop](https://visualstudio
 **Please bring a computer to every class session. This is a hands-on course, and active participation in exercises using GitHub and Git is required. Without a computer, you will not be able to fully engage with the course material.**
 
 
+---
 
+<header>
 
-## Other Statistical Programs
+<!--
+  <<< Author notes: Course header >>>
+  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
+  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
+  Add your open source license, GitHub uses MIT license.
+-->
 
-If you're coming to R from Stata, SPSS, SAS, Matlab, or Python, the following resources might be useful to you. Some of them may be a little outdated, but each contains some tables of equivalent commands across programs that might help you get familiar with R more quickly.
+# Introduction to GitHub
 
-[R/Stata Comparison](http://www.princeton.edu/~otorres/RStata.pdf) from Princeton's Data & Statistical Services
+_Get started using GitHub in less than an hour._
 
-[R for SAS and SPSS Users](https://r4stats.com/books/free-version/) is a book by Bob Muenchen of <a href="https://www.r4stats.com">r4stats.com</a>
+</header>
 
-[The Tidynomicon: R for Python Programmers](https://third-bit.com/tidynomicon/) by Greg Wilson; may be helpful for those coming to R from other C-derived programming languages as well.
+<!--
+  <<< Author notes: Course start >>>
+  Include start button, a note about Actions minutes,
+  and tell the learner why they should take the course.
+-->
 
-[Matlab/R Reference](http://www.math.umaine.edu/~hiebeler/comp/matlabR.pdf): from David Hiebeler of the University of Maine.
+## Welcome
 
-[Matlab/NumPy (Python)/R Commands Chart](http://mathesaurus.sourceforge.net/matlab-python-xref.pdf): from Vidar Bronken Gundersen; this one is about 10 years old, but it mostly covers basic commands, which haven't changed
+People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better. GitHub Skills’ “Introduction to GitHub” course guides you through everything you need to start contributing in less than an hour.
 
-[haven Package](http://haven.tidyverse.org/): for importing Stata, SAS, and SPSS data into R.
+- **Who is this for**: New developers, new GitHub users, and students.
+- **What you'll learn**: We'll introduce repositories, branches, commits, and pull requests.
+- **What you'll build**: We'll make a short Markdown file you can use as your [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
+- **Prerequisites**: None. This course is a great introduction for your first day on GitHub.
+- **How long**: This course takes less than one hour to complete.
 
+In this course, you will:
 
-## Statistics and Machine Learning
+1. Create a branch
+2. Commit a file
+3. Open a pull request
+4. Merge your pull request
 
-[UCLA's Statistics Consulting Group](https://stats.oarc.ucla.edu/) has a great set of tutorials showing how to conduct many types of ANOVA and regression analysis in various statistical packages, including R.  Highly recommended; check here first.
+### How to start this course
 
-[An Introduction to Statistical Learning with Applications in R](https://www.statlearning.com/): book, available online, by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
+<!-- For start course, run in JavaScript:
+'https://github.com/new?' + new URLSearchParams({
+  template_owner: 'skills',
+  template_name: 'introduction-to-github',
+  owner: '@me',
+  name: 'skills-introduction-to-github',
+  description: 'My clone repository',
+  visibility: 'public',
+}).toString()
+-->
 
-[The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/): book, available online, by Trevor Hastie, Robert Tibshirani, Jerome Friedman
+[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=skills&template_name=introduction-to-github&owner=%40me&name=skills-introduction-to-github&description=My+clone+repository&visibility=public)
 
-[Deep Learning with R](https://www.manning.com/books/deep-learning-with-r): book, by François Chollet with J. J. Allaire 
-
-[Cookbook for R, Statistical Analysis section](http://www.cookbook-r.com/Statistical_analysis/) provides examples of many basic statistical methods.
-
-[A Little Book of R for Bioinformatics](https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/) covers basic analysis topics in the field.
-
-
-## Matrices and Vectorization
-
-[Linear Algebra in R](https://www.math.uh.edu/~jmorgan/Math6397/day13/LinearAlgebraR-Handout.pdf) by Søren Højsgaard
-
-Understanding Vectorization in R: [Vectorization in R: Why?](http://www.noamross.net/blog/2014/4/16/vectorization-in-r--why.html) by Noam Ross or 
-[Let's talk about vectorization](http://alyssafrazee.com/2014/01/29/vectorization.html) by Alyssa Frazee
+1. Right-click **Start course** and open the link in a new tab.
+2. In the new tab, most of the prompts will automatically fill in for you.
+   - For owner, choose your personal account or an organization to host the repository.
+   - We recommend creating a public repository, as private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
+   - Scroll down and click the **Create repository** button at the bottom of the form.
+3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
