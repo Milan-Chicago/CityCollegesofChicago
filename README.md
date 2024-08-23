@@ -22,9 +22,9 @@ GitHub Education helps students, teachers and schools access the best real-world
 ### 🏫 For schools
 - **GitHub Campus Program**: Teach with industry-standard tools, across all your departments and students, for free.
 
-###[Guides for GitHub Education](https://docs.github.com/en/education/guides)
-###[Git cheat sheets](https://education.github.com/git-cheat-sheet-education.pdf)
-###[GitHub-Flavored Markdown guide](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
+- [Guides for GitHub Education](https://docs.github.com/en/education/guides)
+- [Git cheat sheets](https://education.github.com/git-cheat-sheet-education.pdf)
+- [GitHub-Flavored Markdown guide](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
 
 ## Get the benefits
 Find out more about your benefits from GitHub Education on our [website](https://education.github.com/).
