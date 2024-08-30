@@ -98,6 +98,8 @@ For workshops, it's best to [Visual Studio, Github Desktop](https://visualstudio
 
 ## Class 2: Advanced GitHub Techniques and Collaboration (4 hours)
 
+## Special Guest Instructor [Ali Kadhim](https://www.linkedin.com/in/ai-kadhim/)
+
 ### Part 1: Merging and Resolving Conflicts (1 hour)
 - Merging branches
 - Resolving conflicts in a collaborative environment
