@@ -20,5 +20,6 @@ GitHub Education helps students, teachers and schools access the best real-world
 
 [How to use ChatGPT like a Pro: 100+ ChatGPT Examples for Teachers](https://www.classpoint.io/blog/how-to-use-chatgpt-100-chatgpt-examples-in-schools)
 
+[A Teacher’s Prompt Guide to ChatGPT](https://content-calpoly-edu.s3.amazonaws.com/ctlt/1/images/A%20Teacher%27s%20Prompt%20Guide%20to%20ChatGPT%20accessible%20version.pdf)
 ---
  
