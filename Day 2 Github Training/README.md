@@ -1,3 +1,6 @@
+# City Colleges of Chicago Continuing Education 
+Day 2 Github for Educators
+
 ## :books: Quick Review
 
 # This repo was copied from the original repository here:  https://github.com/ai-kadhim/practice_repo/tree/main 
